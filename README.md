@@ -22,7 +22,7 @@ bower install luxbar
 
 Or use the CDN:
 ```html
-<link rel="stylesheet" href="https://cdn.rawgit.com/balzss/luxbar/ae5835e2/build/luxbar.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/luxbar/build/luxbar.min.css">
 ```
 
 Then head over [to the demo page](https://balzss.github.io/luxbar) to generate your customized HTML code or use
